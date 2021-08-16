@@ -27,3 +27,16 @@ The querySelector () method of JavaScript is used for selecting only the first e
 # Local Storage: <br>
  LocalStorage is a data storage type of web storage. This allows the JavaScript sites and apps to store and access the data without any expiration date. This means that the data will always be persisted and will not expire. So, data stored in the browser will be available even after closing the browser window. <br>
 
+# Languages <br>
+  HTML <br>
+  CSS   <br>
+  
+# Tools <br>
+  Visual Studio Code <br>
+  Google Fonts <br>
+ 
+ # Usage
+ You can clone this repository in order to use this source code.You can customize the UI according to your own desire and can push it on your repository.
+  
+
+ 
