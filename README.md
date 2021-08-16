@@ -10,7 +10,7 @@ This is basic level Bookmarks web application which store the name of the site a
 
 # How it works:
 It stores all data in local storage so that we can use use our data when we restart or refresh the site.
-When we enters the name of site and url of that site it stores it in a list and show up three buttons.
+When we enters the name of site and url of that site it stores it in a list and show up three buttons. <br>
 => Visit <br>
 => Edit <br>
 => Delete <br>
